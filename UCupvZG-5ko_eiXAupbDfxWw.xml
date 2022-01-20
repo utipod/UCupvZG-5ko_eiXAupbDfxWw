@@ -3,13 +3,13 @@
   <channel>
     <title>CNN</title>
     <link>https://www.youtube.com/channel/UCupvZG-5ko_eiXAupbDfxWw</link>
-    <description>CNN's Drew Griffin asked Sen. Richard Burr (R-NC) if he profited from insider stock trading in office. Here's how Burr responded. #CNN #News</description>
+    <description>Anderson Cooper, Jeffrey Toobin and Maggie Haberman discuss the Supreme Court clearing the way for the release of presidential records from the Trump White House to a congressional committee investigating the January 6 attack on the US Capitol. #CNN #News</description>
     <language>None</language>
     <managingEditor>CNN</managingEditor>
     <category/>
     <generator>utipod</generator>
     <image>
-      <url>https://i.ytimg.com/vi/bDfiVILMdzk/3.jpg</url>
+      <url>https://i.ytimg.com/vi/OlQaKMzF3O0/3.jpg</url>
       <title>CNN</title>
       <link>https://www.youtube.com/channel/UCupvZG-5ko_eiXAupbDfxWw</link>
     </image>
@@ -73,6 +73,18 @@
       <link>I091sfxXtR0</link>
       <enclosure url="http://174.89.238.251/UCupvZG-5ko_eiXAupbDfxWw/I091sfxXtR0.mkv" len="58594773" type="application/octet-stream"/>
       <itunes:image>https://i.ytimg.com/vi/I091sfxXtR0/maxresdefault.jpg</itunes:image>
+    </item>
+    <item xmlns:itunes="http://www.itunes_ns.com/dtds/podcast-1.0.dtd">
+      <description><![CDATA[Anderson Cooper, Jeffrey Toobin and Maggie Haberman discuss the Supreme Court clearing the way for the release of presidential records from the Trump White House to a congressional committee investigating the January 6 attack on the US Capitol. #CNN #News]]></description>
+      <category><![CDATA[News & Politics]]></category>
+      <title><![CDATA['Extraordinary rebuke of the former President': Toobin weighs in on SCOTUS decision]]></title>
+      <guid>OlQaKMzF3O0</guid>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCupvZG-5ko_eiXAupbDfxWw</source>
+      <author>CNN</author>
+      <link>OlQaKMzF3O0</link>
+      <enclosure url="http://174.89.238.251/UCupvZG-5ko_eiXAupbDfxWw/OlQaKMzF3O0.mkv" len="84195452" type="application/octet-stream"/>
+      <itunes:image>https://i.ytimg.com/vi/OlQaKMzF3O0/maxresdefault.jpg</itunes:image>
     </item>
     <item xmlns:itunes="http://www.itunes_ns.com/dtds/podcast-1.0.dtd">
       <description><![CDATA[After Martin Luther King Jr. Day, CNN's Abby Phillip and Manu Raju join John King for a discussion about voting rights and the role of the filibuster. #CNN #News #CITIZENbyCNN]]></description>
